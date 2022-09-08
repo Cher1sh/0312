@@ -5,3 +5,6 @@ console.log('我是子分支');
 console.log('我是主分支');
 console.log('-----------------');
 console.log('-----------------');
+console.log('-------------');
+console.log('子分支');
+console.log('-------------');
